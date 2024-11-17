@@ -1,7 +1,4 @@
 
-// componente con el formulario para el registro de usuarios con los campos name, email y password
-// usar fech para enviar los datos al servidor a una ruta post /register
-
 import React, { useState } from 'react';
 
 const RegisterForm = () => {

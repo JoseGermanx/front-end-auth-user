@@ -1,8 +1,4 @@
 
-
-// componente con el formulario para reset password, debe tener solo un input para el email
-// usar fech para enviar los datos al servidor a una ruta post /reset
-
 import React, { useState } from 'react';
 
 const ResetPass = () => {

@@ -1,6 +1,4 @@
 
-// componente con información de la página de inicio de la app de gestión autenticación. Incluir links para las las rutas de inicio de sesión, registro y recuperación de contraseña.
-
 import React from 'react';
 
 const Home = () => {

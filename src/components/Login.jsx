@@ -1,8 +1,4 @@
 
-
-// componente con el formulario para ellogin de usuarios con los campos email y password
-// usar fech para enviar los datos al servidor a una ruta post /login
-
 import React, { useState } from 'react';
 
 const Login = () => {

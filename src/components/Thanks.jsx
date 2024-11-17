@@ -1,6 +1,4 @@
 
-// rederizará un mensaje de agradecimiento
-
 import React from 'react';
 
 const Thanks = () => {

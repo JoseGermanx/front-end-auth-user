@@ -1,9 +1,4 @@
 
-
-// componente con el formulario para enviar la nueva contraseña, debe tener solo un input para el password
-// usar fech para enviar los datos al servidor a una ruta post /reset
-// obtener el token de la query string de la url
-
 import React, { useState } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 
